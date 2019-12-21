@@ -1,0 +1,14 @@
+TODO LIST, PHASE 0.1: 
+J: 
+- [BE] add action log
+
+S:
+- [FE] add hover
+- [FE] beautify graph interaction
+
+M:
+- [OP] Dep
+
+After Phase 0.1:
+- [BE] Planning about the data cleaning
+- [BE+FE] create web socket to get which node is ready to be expanded
